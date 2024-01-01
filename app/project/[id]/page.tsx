@@ -40,7 +40,7 @@ const ProjectDetailPage = () => {
           <p className="my-4 text-lg font-semibold">Teach Stack</p>
 
           <div className="flex items-center gap-4 flex-wrap mb-1">
-            {project?.teachStack?.split(",")?.map((skill) => (
+            {project?.techStack?.split(",")?.map((skill) => (
               <div key={skill} className="border px-4 py-2 rounded-full text-sm font-medium opacity-60 dark:opacity-90">{skill}</div>
             ))}
           </div>
