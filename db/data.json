@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Tesla Clone",
+    "description": "Crafted a Tesla-inspired ReactJS Redux clone, seamlessly blending cutting-edge technology with a sleek user interface. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": " https://tesla-clone-website-app.netlify.app",
+    "thumbnailUrl": "https://github.com/PavitarSharma/Tesla-Clone-React-Redux/assets/76960865/7ddca090-5a22-44ce-bf01-d75908757b02",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, JavaScript, ReactJS, Redux"
+  },
+  {
+    "id": 2,
+    "title": "XFlix (YouTube Clone)",
+    "description": "Developed a YouTube inspired online streaming platform using ReactJS , seamless user interface. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": "https://nikita-xflix-frontend.netlify.app/",
+    "thumbnailUrl": "https://s3-alpha.figma.com/hub/file/4364778344/44126778-837e-499f-b2e5-a909a0fe641c-cover.png",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, JavaScript, ReactJS, MongoDB, NodeJs, ExpressJs"
+  },
+  {
+    "id": 3,
+    "title": "Qkart (e-commerce platform)",
+    "description": "Developed an e-commerce website using ReactJS, with a smooth user interface. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": "https://nikita-qkart.netlify.app/",
+    "thumbnailUrl": "https://www.getboost360.com/blog/wp-content/uploads/sites/12/2022/02/6-Reasons-Why-You-Should-Own-An-E-Commerce-Website-To-Sell-Your-Products.jpg",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, JavaScript, ReactJS"
+  },
+  {
+    "id": 4,
+    "title": "QTrip ",
+    "description": "Built an online vacation website using ReactJS, with a smooth user interface. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": "https://nikita-qtripdynamic.netlify.app/",
+    "thumbnailUrl": "https://images-platform.99static.com//IfKCe5nf5-Yj3Z2HA3UUSz-ba2U=/64x1198:1974x3110/fit-in/500x500/99designs-contests-attachments/138/138707/attachment_138707953",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, JavaScript, ReactJS"
+  },
+  {
+    "id": 5,
+    "title": "News Feed",
+    "description": "Built an online news feed website using ReactJS, with a smooth user interface. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": "https://new-buildout-xboard.netlify.app/",
+    "thumbnailUrl": "https://faqs.web-school.in/wp-content/uploads/2017/10/news-feed1.jpg",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, Bootstrap, JavaScript, ReactJS"
+  },
+  {
+    "id": 6,
+    "title": " Quizy",
+    "description": "Built Quiz app from scratch using ReactJS, MongoDB, Nodejs for easy user experience. Immerse yourself in the future of web development with this dynamic project.",
+    "websiteUrl": "https://app.netlify.com/sites/nikita-quiz-app/overview",
+    "thumbnailUrl": "https://www.shutterstock.com/shutterstock/photos/2052894734/display_1500/stock-vector-quiz-and-question-marks-trivia-night-quiz-symbol-neon-sign-night-online-game-with-questions-2052894734.jpg",
+    "websiteCode": "https://github.com/PavitarSharma/Tesla-Clone",
+    "techStack": "HTML5, CSS3, Bootstrap, JavaScript, ReactJS, MongoDB, ExpressJs, Nodejs"
+  }
+  
+]
